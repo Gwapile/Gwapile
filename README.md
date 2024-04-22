@@ -4,7 +4,7 @@
 - I had an expereience for two years now
 - 💞️ I’m looking to collaborate on ...learing
 - I'm a student at Teofilo Kisanji University  based at Mbeya,Tanzania in Africa
-- Also am a Web developer/Front-End Language of designing a different website by using HTML,CSS,BOOTSTRAP,JSS
+- Also am a Web developer/Front-End Language of designing a different website by using HTML,CSS,BOOTSTRAP.
 - I had 24 years at all
 - Specialized in IT
 - 📫 You can reach me by sending an sms by using gmail,whatsapp,linked & instagram ...
