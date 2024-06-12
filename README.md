@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gwapile
 - 👀 I’m interested in full-stack Development...
 - 🌱 I’m currently learning ...
-- I had an expereience for two years now
 - 💞️ I’m looking to collaborate on ...learning
 - I'm a student at Teofilo Kisanji University  based at Mbeya,Tanzania in Africa
 - Also am a Web developer/Front-End developer of designing a different website and dynamic website by using HTML,CSS, J'S,PHP,BULMA CSS & BOOTSTRAP.
